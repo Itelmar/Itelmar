@@ -1,6 +1,6 @@
 ### Olá, tudo bem?! Eu sou o Itelmar Davi
 
-- 🌱 Estudando HTML/CSS/JS
+- 🌱 Desenvolvedor Web
 - 📫 Contate-me no email: Itelmardmg@gmail.com
 
 <div align="center">
